@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1570904101 source:f:\mis proyectos c++\pascal intento 3\main.cpp
+	<iostream>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+
